@@ -1,0 +1,17 @@
+{
+  "name": "fps-counter",
+  "version": "1.0.0",
+  "description": "A simple FPS (Frames Per Second) counter using HTML, CSS, and JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server", 
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/fps-counter.git"
+  },
+  "keywords": ["FPS", "counter", "javascript", "html", "css"],
+  "author": "Djden",
+  "license": "MIT",
+  "devDependencies":
